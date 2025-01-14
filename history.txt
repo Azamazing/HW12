@@ -1,0 +1,20 @@
+   83  2025-01-14 11:25:43 cd HW12
+   84  2025-01-14 11:27:02 git checkout -b "feature"
+   85  2025-01-14 11:27:42 touch "readme.md"
+   86  2025-01-14 11:28:24 git add "readme.md"
+   87  2025-01-14 11:29:39 git commit -m "add readme.md"
+   88  2025-01-14 11:33:31 ls
+   89  2025-01-14 11:33:35 ls -l
+   90  2025-01-14 11:34:28 explorer.exe .
+   91  2025-01-14 11:36:14 git add .gitignore
+   92  2025-01-14 11:36:50 git commit -m "update .gitignore"
+   93  2025-01-14 11:39:21 git push -u origin feature
+   94  2025-01-14 11:50:16 git commit --amend -m "update .gitignore amend"
+   95  2025-01-14 11:50:23 git status
+   96  2025-01-14 11:51:01 git branch
+   97  2025-01-14 11:51:32 git checkout main
+   98  2025-01-14 11:55:44 git merge feature
+   99  2025-01-14 11:57:38 git log
+  100  2025-01-14 11:58:40 git push
+  101  2025-01-14 11:59:38 history
+  102  2025-01-14 12:00:34 history | tail -20 > history.txt
